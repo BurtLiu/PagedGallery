@@ -8,4 +8,7 @@
 
 ![image](https://github.com/liubocoding/PagedGallery/blob/master/preview-images/preview-selected.png)
 
+#Author
+liubocoding@gmail.com
+
  
